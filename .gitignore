@@ -1,5 +1,5 @@
 # Local Netlify folder
 .netlify
-
+.idea
 # Package Files
 node_modules/
